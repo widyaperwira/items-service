@@ -3,6 +3,7 @@ com/example/items/domain/User.class
 com/example/items/ItemsServiceApplication.class
 com/example/items/service/AuthServiceImpl.class
 com/example/items/dto/LoginResponse.class
+com/example/items/config/OpenApiConfig.class
 com/example/items/service/UserServiceImpl.class
 com/example/items/controller/ItemController.class
 com/example/items/controller/UserController.class

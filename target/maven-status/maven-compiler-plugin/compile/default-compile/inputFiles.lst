@@ -1,4 +1,5 @@
 /Users/widyaperwira/Documents/Workspace/items-service/src/main/java/com/example/items/ItemsServiceApplication.java
+/Users/widyaperwira/Documents/Workspace/items-service/src/main/java/com/example/items/config/OpenApiConfig.java
 /Users/widyaperwira/Documents/Workspace/items-service/src/main/java/com/example/items/config/SecurityConfig.java
 /Users/widyaperwira/Documents/Workspace/items-service/src/main/java/com/example/items/controller/AuthController.java
 /Users/widyaperwira/Documents/Workspace/items-service/src/main/java/com/example/items/controller/ItemController.java
